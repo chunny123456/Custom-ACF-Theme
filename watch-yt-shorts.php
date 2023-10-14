@@ -1,3 +1,6 @@
+<!-- Include your JavaScript file -->
+<script src="path/to/your-js-file.js"></script>
+
 <!-- YouTube Shorts Watch Now Section -->
 <section>
   <div class="container">
