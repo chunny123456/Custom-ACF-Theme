@@ -1,3 +1,7 @@
+<!-- Include JavaScript file -->
+<script src="video-showcase-component.js"></script>
+
+
 <section id="watch-talent-recap">
   <div class="container">
     <div class="row" style="padding-bottom: 15px;">
