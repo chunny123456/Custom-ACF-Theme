@@ -1,5 +1,5 @@
-<!-- Include your JavaScript file -->
-<script src="path/to/your-js-fil.js"></script>
+<!-- Include JavaScript file -->
+<script src="responsive-yt-shorts-carousel.js"></script>
 
 <!-- YouTube Shorts Watch Now Section -->
 <section>
